@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Alireza-Bamdad
+### About Me
 
-<!---
-Alireza-Bamdad/Alireza-Bamdad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I am a software engineer with expertise in both backend and frontend development.
+
+- **Backend:**  
+  🖥️ Specializing in **Node.js**, building scalable and efficient applications.
+  
+- **Frontend:**  
+  🌐 Leveraging **React** to create dynamic and responsive user interfaces.
+
+
